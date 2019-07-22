@@ -19,4 +19,4 @@ functions:
     handler: handler.resetPassword
     
 plugins:
-  - serverless-plugin-test
+  - serverless-whitesource-plugin
