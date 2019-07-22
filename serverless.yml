@@ -19,4 +19,8 @@ functions:
     handler: handler.resetPassword
     
 plugins:
-  - serverless-whitesource-plugin
+  - serverless-whitesource
+  
+custom:
+    whitesource:
+        pathToConfig: whitesource-fs-agent.config
