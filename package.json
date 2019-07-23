@@ -4,8 +4,5 @@
   "description": "This example demonstrates how to use environment variables for AWS Lambdas.",
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "properties-reader": "^0.3.1",
-    "serverless-whitesource-plugin": "^1.0.3"
-  }
+  "dependencies": {}
 }
